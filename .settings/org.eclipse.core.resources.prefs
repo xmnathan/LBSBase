@@ -1,0 +1,10 @@
+eclipse.preferences.version=1
+encoding//src/com/github/xmnathan/LBSBase/LBS/LBSMsg.java=UTF-8
+encoding//src/com/github/xmnathan/LBSBase/LBS/LBSNode.java=UTF-8
+encoding//src/com/github/xmnathan/LBSBase/LBS/LBSPoi.java=UTF-8
+encoding//src/com/github/xmnathan/LBSBase/LBS/LBSTreeHelper.java=UTF-8
+encoding//src/com/github/xmnathan/LBSBase/mapUtils/GCJPos.java=UTF-8
+encoding//src/com/github/xmnathan/LBSBase/mapUtils/LatLonPos.java=UTF-8
+encoding//src/com/github/xmnathan/LBSBase/mapUtils/MapUtils.java=UTF-8
+encoding//src/com/github/xmnathan/LBSBase/mapUtils/QuadTree/QuadTreeManager.java=UTF-8
+encoding//src/com/github/xmnathan/LBSBase/mapUtils/WGSPos.java=UTF-8
